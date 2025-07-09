@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hi there 👋 I'm a Developer!</h1>
 
 <p align="center">
@@ -43,3 +44,4 @@
 ---
 
 📌 *Thanks for stopping by!*
+-->
