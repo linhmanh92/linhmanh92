@@ -34,10 +34,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=linhmanh92&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhmanh92&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 🎯 **Fun Fact**
