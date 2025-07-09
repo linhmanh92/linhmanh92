@@ -12,8 +12,8 @@
 - 🔧 Most confident working with: **ReactJS**, **Flutter**, and **Elixir**.
 - 🚀 I've contributed to awesome projects like:
   - [Pancake](https://pancake.vn)
-  - [POS] (https://pos.pancake.vn)
-  - Botcake
+  - [POS](https://pos.pancake.vn)
+  - [Botcake](https://botcake.io)
 - 🌟 Previously served as **Tech Lead** at **Pancake Work**.
 
 ---
